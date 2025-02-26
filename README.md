@@ -19,3 +19,6 @@ The goal is to determine whether a **price increase** is feasible next year base
 ✅ **SQL** – Data extraction, transformation, and analysis.  
 ✅ **Power BI** – Interactive dashboards for visualization.  
 ✅ **GitHub** – Version control and documentation.  
+
+
+
